@@ -58,12 +58,6 @@ I recently completed an internship at **DSC Group**, contributing to a complete 
 | [**AI Portfolio Reviewer**](https://github.com/alessandrosaccon/ai-portfolio-reviewer) | A SaaS-style web app that uses OpenAI to analyse portfolios and CVs, returning structured feedback. | Next.js · TypeScript · Supabase · OpenAI API |
 | [**Book Recommender**](https://github.com/alessandrosaccon/book-recommender) | A Java client-server application for book management and recommendations. | Java · JavaFX · PostgreSQL · JDBC |
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandrosaccon&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for Alessandro Saccon">
-</p>
-
 ## 📫 Let's connect
 
 I'm open to opportunities, collaborations, and conversations about useful products, AI-powered workflows, and accessible interfaces.
